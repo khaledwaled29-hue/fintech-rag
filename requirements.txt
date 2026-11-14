@@ -1,0 +1,16 @@
+# Orchestration (LangChain)
+langchain-core==1.8.0
+langchain-text-splitters==1.1.3
+langchain-google-genai==4.5.0
+langchain-chroma==1.1.0
+langchain-huggingface==1.2.3
+
+# Vector database
+chromadb==1.5.9
+
+# Local embedding model
+sentence-transformers==6.3.0
+
+# Document loading + secrets
+pypdf==7.0.1
+python-dotenv==1.2.4

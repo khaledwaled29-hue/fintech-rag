@@ -1,0 +1,17 @@
+# Secrets (your real API key lives here)
+.env
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Generated vector database (rebuild with: python -m src.ingest)
+chroma_db/
+
+# OS / editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
