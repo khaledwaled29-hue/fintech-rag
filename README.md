@@ -91,7 +91,7 @@ fintech-rag/
 
 ### 2. Install
 ```bash
-git clone https://github.com/<your-username>/fintech-rag.git
+git clone https://github.com/khaledwaled29-hue/fintech-rag.git
 cd fintech-rag
 python -m venv .venv
 # Windows:
